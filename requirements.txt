@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+sentence-transformers
+mysql-connector-python
+python-dotenv
+langchain-text-splitters
