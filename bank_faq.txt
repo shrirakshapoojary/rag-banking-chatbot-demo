@@ -1,0 +1,11 @@
+Savings Account:
+Minimum balance is ₹1000.
+
+Home Loan:
+Interest rate starts from 8.5%.
+
+Credit Card:
+Annual fee is ₹500.
+
+ATM Withdrawal:
+First 5 transactions are free.
